@@ -35,37 +35,10 @@ SwaAdhyaya is a custom-built Learning Management System (LMS) developed using th
 - **Authentication:** JSON Web Tokens (JWT)
 - **Payment Gateway:** Stripe
 
-## Screenshots
+## Screenshots of the Features 
 
-### Home Page
-
-
-
-### Login/Signup Page
-
-
-
-### Instructor Dashboard
-
-
-
-### Adding Course by Instructor
-
-
-
-### Instructor Profile
-
-
-
-### Student Profile
-
-
-
-### Student Accessing Course
-
-
-
-### Payment Gateway
+    https://drive.google.com/drive/folders/1k8Ep8aZI6exKr0AMhJBS8BMihuNE0nNF?usp=drive_link
+    
 
 
 
@@ -88,8 +61,3 @@ SwaAdhyaya is a custom-built Learning Management System (LMS) developed using th
 4.Run the application:
    ```bash
     npm start
-
-
-
-
-
