@@ -4,6 +4,15 @@
 
 SwaAdhyaya is a custom-built Learning Management System (LMS) developed using the MERN stack. It offers a comprehensive platform for both instructors and students to manage and access educational content efficiently. The application ensures secure access through user authentication and protected routes.
 
+
+## Screenshots of the Features 
+
+    https://drive.google.com/drive/folders/1k8Ep8aZI6exKr0AMhJBS8BMihuNE0nNF?usp=drive_link
+    
+
+
+
+
 ## Features
 
 ### General Features
@@ -34,13 +43,6 @@ SwaAdhyaya is a custom-built Learning Management System (LMS) developed using th
 - **Database:** MongoDB
 - **Authentication:** JSON Web Tokens (JWT)
 - **Payment Gateway:** Stripe
-
-## Screenshots of the Features 
-
-    https://drive.google.com/drive/folders/1k8Ep8aZI6exKr0AMhJBS8BMihuNE0nNF?usp=drive_link
-    
-
-
 
 ## Installation
 
